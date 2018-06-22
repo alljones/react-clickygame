@@ -1,0 +1,11 @@
+.footer {
+    background: #6956af;
+    height: 100px;
+    position: relative;
+    padding: 10px 0;
+    color: #fff;
+}
+.footer p{
+margin-top: 1rem;
+
+}
